@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Aug 05 22:39:56 WIB 2018
+http\://repo1.maven.org/maven2/.error=
+http\://maven.appirio.net\:8080/.error=Could not transfer artifact tc-components\:database_abstraction\:pom\:1.1.1 from/to Appirio Technology Maven Repository (http\://maven.appirio.net\:8080/)\: maven.appirio.net\: Name or service not known
+http\://repo1.maven.org/maven2/.lastUpdated=1533483596176
+@default-Appirio\ Technology\ Maven\ Repository-http\://maven.appirio.net\:8080/.lastUpdated=1533483596453
